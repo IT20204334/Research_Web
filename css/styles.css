@@ -249,6 +249,8 @@ a {
     }
 }
 
+
+
 .main-sections .sub-section .downloads-container .card {
     height: 210px;
     margin-bottom: 20px;
@@ -541,7 +543,13 @@ a {
     margin-bottom: 20px;
 }
 
+.card{
+    weight:100px;
+}
+
 .about-us-card .about-us-image {
+    height: 320px;
+    weight: 100px;
     -o-object-fit: cover;
     object-fit: cover;
 }
